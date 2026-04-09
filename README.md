@@ -53,6 +53,7 @@ You probably don't want to click "run" every 10 minutes. The best way to automat
 */15 * * * * /usr/bin/python3 /home/shawn/nexus_checker_app/nexus_checker.py
 ```
 How the email should look: 
+
 <img width="422" height="433" alt="image" src="https://github.com/user-attachments/assets/c81e7f75-ef3a-4e24-a2a0-697ef3ea1fcb" />
 
 ## 🤝 Contributing
