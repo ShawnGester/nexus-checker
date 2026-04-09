@@ -1,4 +1,5 @@
 Nexus Appointment Checker ✈️
+
 This application is designed for anyone looking to snag an earlier Nexus appointment without refreshing the TTP portal all day. Whether you're a seasoned dev or just installed your first terminal, this guide is for you.
 
 🛠 Prerequisites
